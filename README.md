@@ -1,7 +1,7 @@
-# Hi there, I'm Myint Myat Zaw 👋
+# Hi there, This is Myint Myat Zaw (aka) Myat Charm 👋
 
 ### 🌟 About Me
-I'm an aspiring **Data Analyst/Data Scientist** passionate about turning data into actionable insights. With a background in **Business Management** and certifications from **Google**, **IBM**, and **Datacamp**, I’m on a journey to build meaningful data-driven solutions.
+I'm an aspiring **Data Analyst/Data Scientist** passionate about turning data into actionable insights. With a background in **Business Management** and certifications from **Google**, **IBM**, **Datacamp**, and on the way to getting one from MIT through the MiT Emerging Talent Program. I relly love to build meaningful data-driven solutions.
 
 ### 💻 Skills and Tools
 - **Programming & Data Analysis**: Python, SQL, Tableau, Excel
@@ -30,7 +30,7 @@ I'm an aspiring **Data Analyst/Data Scientist** passionate about turning data in
 
 ### 💡 Fun Facts
 - I enjoy collaborating in team environments (ask me about my time as a **Robotics Team Manager** 🤖).
-- Always curious and love exploring new cultures — currently learning **Thai** 🇹🇭.
+- Always curious and loves exploring new cultures — currently learning **Thai** 🇹🇭 and **French**.
 
 ---
 
